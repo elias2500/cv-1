@@ -9,6 +9,19 @@
   padding-top: 20px;
 }
 
+.sidenav p {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
 /*
 Leap Day for GitHub Pages
 by Matt Graham
