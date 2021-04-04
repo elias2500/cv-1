@@ -5,25 +5,26 @@ name: Kaleridis Ilias
 
 #Profile urls
 urls:
-        - https://github.com/elias2500
-        - eliaskaler@gmail.com
-        - p18kale@ionio.gr
+ - https://github.com/elias2500
+ - eliaskaler@gmail.com
+ - p18kale@ionio.gr
 
 #Languages
 languages:
-        - Greek(Native)
-        - English(B2)
+ - Greek(Native)
+ - English(B2)
 
 #Programming languages
 prlang:
-        - Python
-        - HTML/CSS
-        - Java
+ - Python
+ - HTML/CSS
+ - Java
 
 #Career
 career:
-        title: Career Profile
-        summary: I am a student currently studying informatics at Ionian University and I am in the third year of the four year coriculum.
+ title: Career Profile
+ summary: |
+ I am a student currently studying informatics at Ionian University and I am in the third year of the four year coriculum.
       I am interested in many fields of informatics but I consider myself a good and talented programmer, especially when it comes
       to problems that require math. I aspire to work in the field of informatics and be a valuable member of any group. I am a hard
       worker and stuborn when it comes to finishing a project or finding the solution. My dream is to become a video game designer, 
@@ -31,6 +32,6 @@ career:
 
 #Interests
 interests:
-        - Video games
-        - Football
-        - Motor Racing
+ - Video games
+ - Football
+ - Motor Racing
