@@ -12,38 +12,24 @@ layout: default
 		<p>{{site.data.details.career.summary}}</p>
 		<h3>Skills</h3>
 		<div class="sidenav">
+			<h3>Skills</h3>
 			<ul>
 				{% for lang in site.data.details.prlang %}
 				<li><p>{{lang}}</p></li>
 				{% endfor %}
 			</ul>
+			<h3>Languages</h3>
 			<ul>
 				{% for la in site.data.details.languages %}
 				<li><p>{{la}}</p></li>
 				{% endfor %}
 			</ul>
+			<h3>Interests</h3>
 			<ul>
 				{% for inte in site.data.details.interests %}
 				<li><p>{{inte}}</p></li>
 				{% endfor %}
 			</ul>
 		</div>
-		<ul>
-			{% for lang in site.data.details.prlang %}
-			<li><p>{{lang}}</p></li>
-			{% endfor %}
-		</ul>
-		<h3>Languages</h3>
-		<ul>
-			{% for la in site.data.details.languages %}
-			<li><p>{{la}}</p></li>
-			{% endfor %}
-		</ul>
-		<h3>Interests</h3>
-		<ul>
-			{% for inte in site.data.details.interests %}
-			<li><p>{{inte}}</p></li>
-			{% endfor %}
-		</ul>
 	</body>
 </html>
