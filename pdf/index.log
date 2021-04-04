@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.4)  4 APR 2021 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.4)  4 APR 2021 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,7 +372,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count269
 \l__pdf_internal_box=\box47
 )
-No file index.aux.
+(./index.aux)
 \openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -404,7 +404,7 @@ LaTeX Info: Redefining \showhyphens on input line 66.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -425,13 +425,14 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 66.
 LaTeX Info: Redefining \pageref on input line 66.
 LaTeX Info: Redefining \nameref on input line 66.
+
+(./index.out) (./index.out)
 \@outlinefile=\write3
 \openout3 = `index.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
 8.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
@@ -496,24 +497,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (./index.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
-
-
-Package rerunfilecheck Warning: File `index.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `index.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C9622E1E8A0ECEC61328EB9D3FFAC94E;463.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `index.out' has not changed.
+(rerunfilecheck)             Checksum: C9622E1E8A0ECEC61328EB9D3FFAC94E;463.
  ) 
 Here is how much of TeX's memory you used:
- 11490 strings out of 483183
- 169476 string characters out of 5966293
- 450081 words of memory out of 5000000
- 26303 multiletter control sequences out of 15000+600000
+ 11502 strings out of 483183
+ 169598 string characters out of 5966293
+ 450367 words of memory out of 5000000
+ 26309 multiletter control sequences out of 15000+600000
  563809 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  34i,6n,42p,813b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -521,10 +512,10 @@ Here is how much of TeX's memory you used:
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on index.pdf (2 pages, 102170 bytes).
+Output written on index.pdf (2 pages, 102488 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
- 8193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
