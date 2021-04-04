@@ -16,6 +16,15 @@ layout: default
 			<li><p>{{lang}}</p></li>
 			{% endfor %}
 		</ul>
-		</div>
+		<ul>
+			{% for la in site.data.details.languages %}
+			<li><p>{{la}}</p></li>
+			{% endfor %}
+		</ul>
+		<ul>
+			{% for inte in site.data.details.interests %}
+			<li><p>{{inte}}</p></li>
+			{% endfor %}
+		</ul>
 	</body>
 </html>
