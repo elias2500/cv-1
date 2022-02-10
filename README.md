@@ -1,4 +1,4 @@
-# This is my cv repo
+# This is my cv repo (provisional)
 
 In this repo are the essential files for building a page with my cv. All the info are located in the [_data/details.yml](https://github.com/elias2500/cv-1/blob/master/_data/details.yml) file. 
 In the [_config.yml](https://github.com/elias2500/cv-1/blob/master/_config.yml) are some settings, like the github pages theme. The [index.html](https://github.com/elias2500/cv-1/blob/master/index.html)
